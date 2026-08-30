@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+.terraform.lock.hcl
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
