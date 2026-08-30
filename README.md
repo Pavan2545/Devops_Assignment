@@ -65,7 +65,10 @@ Maven Build          SonarQube
 
 ## Project Structure
 
-```text
+
+**Video Recording Walkthrough:** [Watch the Project Walkthrough](https://drive.google.com/file/d/1FNi66rHMyx1dxFPGD210J0C3a8Cxj6Zr/view?usp=sharing)
+
+text
 Jenkins/
 ├── java-maven-sonar-argocd-helm-k8s/
 │   ├── spring-boot-app/
